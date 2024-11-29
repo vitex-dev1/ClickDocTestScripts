@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8929ab5-95f5-44e9-bf3e-30b02611bcf4" name="Changes" comment="Login module added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Admin/Testcases/Customers/T1CustomersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Admin/Testcases/Customers/T1CustomersPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;TNGGG&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TNGGG/ClickDoc.git&quot;,
-    &quot;accountId&quot;: &quot;0ecec8ea-80a4-42a4-b3f2-9f9eb4e04d1e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vitex-dev1/ClickDocTestScripts.git",
+    "accountId": "0ecec8ea-80a4-42a4-b3f2-9f9eb4e04d1e"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/Admin/Pages/Customers.java" root0="SKIP_INSPECTION" />

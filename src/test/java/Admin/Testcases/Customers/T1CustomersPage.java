@@ -51,9 +51,7 @@ public class T1CustomersPage extends BaseTest {
 
     //Restore colvis
     @Test(priority = 5)
-    public void restoreColvis(
-
-    ){
+    public void restoreColvis(){
 
     }
 }
